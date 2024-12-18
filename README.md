@@ -8,6 +8,8 @@
   <a href="https://www.facebook.com/manlodyz target="blank"> <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=2350B9&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"/> </a>
 <a href="https://www.outlook.com/manlodyz target="blank"> <img src="https://img.shields.io/static/v1?message=Outlook&logo=Outlook&label=&color=2350B9&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Outlook logo"/> </a>
 </p>
+
+
 ## 🤹 Skills and Tools:
 ### Programming Skills
 <table>
