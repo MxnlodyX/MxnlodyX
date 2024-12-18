@@ -2,10 +2,6 @@
 <h3 align="center">Wattanachai Boonchai | Man</h3>
 <h3 align="center">DST Student , Faculty of ICT , Mahidol University</h3>
 
-## 🌤️ About Me:
-- 🎯 I am always trying to improve my skills to become a full stack developer.
-
-
 ## 📱 My Contact:
 <p align="left"> 
  <a href="https://www.instagram.com/wtnc_man/" target="blank"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /> </a>
