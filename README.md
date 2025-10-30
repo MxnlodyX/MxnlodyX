@@ -6,7 +6,7 @@
 💻  &nbsp;My study focuses on Software Engineering and Data Science
 
 ### 🛠 &nbsp;Tech Stack
-[![Tech Stack](https://skillicons.dev/icons?i=html,css,react,js,ts,bun,nodejs,expressjs,tailwind,bootstrap,java,junitมspring,python,docker,postgres,cypress,selenium,vite,jest,nginx)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=html,css,react,js,ts,bun,nodejs,expressjs,tailwind,bootstrap,java,spring,python,tensorflow,docker,postgres,cypress,selenium,vite,jest,nginx,dart,flutter,git,github)](https://skillicons.dev)
 ### 📫 &nbsp; How to reach me:
 
 <a href="https://www.linkedin.com/in/wtncbch/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
